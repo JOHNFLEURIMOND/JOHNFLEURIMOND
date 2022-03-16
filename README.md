@@ -10,36 +10,43 @@
 
 <br>
 
-<a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
+<a href="https://github.com/JOHNFLEURIMOND/MERNStackForm">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=MERNStackForm&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/braydoncoyer/pomegradient">
+<a href="https://github.com/JOHNFLEURIMOND/Redux-earthquake-api-appt">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=Redux-earthquake-api-app&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 
 
-<a href="https://github.com/braydoncoyer/ng-limeade">
+<a href="https://github.com/JOHNFLEURIMOND/React-API-Chart-JS">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=React-API-Chart-JS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/JOHNFLEURIMOND/StarWarsFilmApi">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=StarWarsFilmApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/JOHNFLEURIMOND/ReactReduxToDoList">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=ReactReduxToDoList&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/JOHNFLEURIMOND/Marvel-API-Redux-Character-App">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=Marvel-API-Redux-Character-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/JOHNFLEURIMOND/itinerary-list">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=itinerary-list&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/braydoncoyer/officeapi">
+<a href="https://github.com/JOHNFLEURIMOND/MysqlExpressReactNode">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=MysqlExpressReactNode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<a href="https://github.com/JOHNFLEURIMOND/React-Typescript-Pokemon-Redux">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=React-Typescript-Pokemon-Redux&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/JOHNFLEURIMOND/MinistryOfTheSentinels">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JOHNFLEURIMOND&repo=MinistryOfTheSentinels&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
