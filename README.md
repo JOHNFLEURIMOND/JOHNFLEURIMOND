@@ -5,8 +5,14 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tcodemonger)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/johnfleurimond/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOHNFLEURIMOND&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNFLEURIMOND&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JOHNFLEURIMOND&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOHNFLEURIMOND&theme=radical" />
+</a>
+
 <!--
 **JOHNFLEURIMOND/JOHNFLEURIMOND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
