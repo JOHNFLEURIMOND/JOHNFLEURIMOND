@@ -20,7 +20,6 @@
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 
@@ -39,10 +38,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
