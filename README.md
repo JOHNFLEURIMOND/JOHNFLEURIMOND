@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/freshxvisuals"><img src="https://api.daily.dev/devcards/4a536c6de6cd497485c595fdc6dc84b2.png?r=gdp" width="400" alt="John Fleurimond's Dev Card"/></a>
+<a href="https://app.daily.dev/freshxvisuals"><img src="https://api.daily.dev/devcards/4a536c6de6cd497485c595fdc6dc84b2.png?r=0qw" width="400" alt="John Fleurimond's Dev Card"/></a>
 
 <br>
 
