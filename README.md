@@ -2,7 +2,7 @@
 
 <br>
 
-[![Visits Badge](https://badges.strrl.dev/visits/JOHNFLEURIMOND/https://github.com/JOHNFLEURIMOND)](https://badges.strrl.dev)
+[![Visits Badge](https://badges.strrl.dev/visits/JOHNFLEURIMOND/https://github.com/JOHNFLEURIMOND)](https://johnfleurimond.netlify.app/)
 
 [![Commits Badge](https://badges.strrl.dev/commits/yearly/JOHNFLEURIMOND)](https://badges.strrl.dev)
 
