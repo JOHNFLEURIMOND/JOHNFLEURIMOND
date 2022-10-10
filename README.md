@@ -1,6 +1,7 @@
 <a href="https://app.daily.dev/freshxvisuals"><img src="https://api.daily.dev/devcards/4a536c6de6cd497485c595fdc6dc84b2.png?r=0qw" width="400" alt="John Fleurimond's Dev Card"/></a>
 
 <br>
+
 [![Visits Badge](https://badges.strrl.dev/visits/JOHNFLEURIMOND/https://github.com/JOHNFLEURIMOND)](https://badges.strrl.dev)
 
 [![Commits Badge](https://badges.strrl.dev/commits/yearly/JOHNFLEURIMOND)](https://badges.strrl.dev)
