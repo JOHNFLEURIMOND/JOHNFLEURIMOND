@@ -2,11 +2,11 @@
 
 <br>
 
-[![Visits Badge](https://badges.strrl.dev/visits/JOHNFLEURIMOND/https://github.com/JOHNFLEURIMOND)](https://johnfleurimond.netlify.app/)
+[![Public Gists Badge](https://badges.strrl.dev/gists/JOHNFLEURIMOND)][(https://badges.strrl.dev](https://johnfleurimond.netlify.app/))
 
-[![Commits Badge](https://badges.strrl.dev/commits/yearly/JOHNFLEURIMOND)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/yearly/JOHNFLEURIMOND)]([https://badges.strrl.dev](https://johnfleurimond.netlify.app/))
 
-[![Years Badge](https://badges.strrl.dev/years/JOHNFLEURIMOND)](https://badges.strrl.dev)
+[![Years Badge](https://badges.strrl.dev/years/JOHNFLEURIMOND)]([https://badges.strrl.dev](https://johnfleurimond.netlify.app/))
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tcodemonger)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/john-fleurimond/)
