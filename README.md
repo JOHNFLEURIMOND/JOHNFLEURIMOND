@@ -1,8 +1,9 @@
 <a href="https://app.daily.dev/freshxvisuals"><img src="https://api.daily.dev/devcards/4a536c6de6cd497485c595fdc6dc84b2.png?r=0qw" width="400" alt="John Fleurimond's Dev Card"/></a>
 
 <br>
-
-[![Visits Badge](https://badges.pufler.dev/visits/JOHNFLEURIMOND/JOHNFLEURIMOND)](https:johnfleurimond.com)
+[![Visits Badge](https://badges.strrl.dev/visits/JOHNFLEURIMOND/https://github.com/JOHNFLEURIMOND)](https://badges.strrl.dev)
+[![Commits Badge](https://badges.strrl.dev/commits/yearly/JOHNFLEURIMOND)](https://badges.strrl.dev)
+[![Years Badge](https://badges.strrl.dev/years/JOHNFLEURIMOND)](https://badges.strrl.dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/tcodemonger)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/john-fleurimond/)
 
